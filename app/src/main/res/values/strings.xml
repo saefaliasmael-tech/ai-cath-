@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AI Council</string>
+    <string name="title_discussion">مجلس الذكاء الاصطناعي</string>
+    <string name="hint_topic">اطرح فكرة، سؤالاً، أو مشكلة للنقاش بين النماذج...</string>
+    <string name="btn_start_discussion">بدء المناقشة</string>
+    <string name="btn_cancel">إلغاء</string>
+    <string name="btn_fetch_models">تحديث قائمة النماذج</string>
+    <string name="btn_settings">الإعدادات ومفتاح API</string>
+    <string name="label_api_key">مفتاح OpenRouter API</string>
+    <string name="label_model_1">النموذج الأول</string>
+    <string name="label_model_2">النموذج الثاني</string>
+    <string name="label_rounds">دورات المراجعة المتبادلة</string>
+    <string name="stage_independent">المرحلة أ: التحليل المستقل</string>
+    <string name="stage_cross_review">المرحلة ب: المراجعة المتبادلة</string>
+    <string name="stage_synthesis">المرحلة ج: التركيب النهائي</string>
+    <string name="section_synthesis">التركيب النهائي والحل التوافقي</string>
+    <string name="section_models_responses">استجابات النماذج التفصيلية</string>
+    <string name="error_no_key">يرجى إدخال مفتاح OpenRouter API في الإعدادات.</string>
+    <string name="error_select_models">يرجى اختيار نموذجين مختلفين.</string>
+</resources>
